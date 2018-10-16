@@ -1,0 +1,3 @@
+<!--@foreach($state_list as $state)
+                                    <option value="{{ $state->State}}">{{ $state->State }}</option>
+                                    @endforeach-->
